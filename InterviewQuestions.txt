@@ -1,0 +1,51 @@
+
+Interview Questions:
+--------------------
+Oracle:
+--------
+1 . String reverse using recursive and normal approch with out using predefined functions and String buffers?
+2 . Write a program for maximun sub array sum in a contiguous subarray in a array of integers?
+3 . how will you create singleton class and what is the purpose for creating singleton class?
+4 . Method overloading and overriding & covarient return type?
+5 . Specialization and Generalization in java?
+6 . Why we go for private variable with getter setter methods rather than going for directly declaring as public variable?
+7 . What are the conditions for String palindrome?
+8 . Collection interfaces and classes?
+9 . what is the architechturre of JVM and why java is platform independent?
+10 . What is difference between thread yield and join method?
+11 . What is narrowing and widening?
+12 . How can you say String is immutable in java?
+13 . Java operators like ++i,i++,^,>>,>>> and ceil(),floor(),round();
+14 . What are the ways for not executing finally block?
+15 . What is the FIFO map?
+16 . How will you access 3D arrays?
+17 . Garbage collection in java?
+18 . If else execution?
+19 . UML diagrams for appliction development?
+20 . What are wrapper classes and what is design patterns in designing this?
+21 . Java 8 Features?
+22 . What are generics what is purpose?
+23 . DesignPatterns?
+24 . Algorithems?
+25 . Why size of char is 2 bytes?
+26 . Can we store duplicate key values in hashmap?
+27 . How the values are stored in LinkedList?
+28 . What is the difference between ArrayList and LinkedList?
+29 . Which is faster and better performance in List and Set?
+30 . How will you implements inner classes?
+31 . Can we declare as class as static?
+32 . OOPs concepts with realtime scenarios?
+33 . Java JDBC?
+34 . Difference between restful web services andJAXWS?
+35 . How will you parse json data in javascript and what is the api used for converting json to java and vice versa?
+36 . How hash map works in java?
+37 . What is classloading and steps?
+38 . What is the difference between Statement and preparedStatement?
+39 . what is purpose of finally final finalize()?
+40 . Java loop controls.
+41 . What are comparable and comparator interfaces and what is the purpose?
+42 . Regular Experssions in java?
+43 . What are the differences between WebServer  and ApplicationServer?
+44 . How we will achieve dependency injection using spring?
+45 . What are ways to multiple values update from a jsp?
+46 . What is the differenc in using if else statements and switch statement
